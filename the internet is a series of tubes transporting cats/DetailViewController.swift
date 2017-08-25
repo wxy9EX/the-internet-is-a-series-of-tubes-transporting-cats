@@ -20,6 +20,7 @@ class DetailViewController: UIViewController {
                 label.text = detail.description
             }
         }
+        print("STAHP BEING RUDEEE")
     }
 
     override func viewDidLoad() {
